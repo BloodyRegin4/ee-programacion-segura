@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    max-width: 650px;
+    margin: 50px auto;
+    padding: 20px;
+}
+form {
+    border: 1px solid #ccc;
+    padding: 25px;
+    border-radius: 8px;
+}
+input, button {
+    display: block;
+    padding: 10px;
+    margin: 12px 0;
+}
+.text-danger { color: #b00020; }
+.d-none { display: none; }
